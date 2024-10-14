@@ -16,7 +16,8 @@
 - **Lab 4**: 11.10.2024  
 - **Lab 5**: 18.10.2024  
 - **Lab 6**: 25.10.2024  
-- **Lab 7 - 8 -> mini projects**
+- **Lab 7** - live coding
+- 8 -> mini projects**
 ---
 
 ### **Group 2:**
