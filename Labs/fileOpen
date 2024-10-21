@@ -1,0 +1,14 @@
+Specific task
+/**
+ * === Move The Rook! ===
+ *
+ * Print out the positions the rook can move in the chess game
+ *
+ * Goals:
+ *  - Create a function with these parameters as input:
+ *    - the current position as a string (e.g. "d5")
+ *    - an array of characters to store possible moves
+ *  - Store the correct positions in the array, separated by space
+ *  - Implement at least 2 versions of the algorithm!
+ *
+ */
